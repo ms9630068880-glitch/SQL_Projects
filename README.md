@@ -54,7 +54,7 @@ By querying across these interconnected tables,extracted insights about skills d
   ### Data analysis techniques
   - **Grouping** 'Grouping by' for categorical analysis by skill 
   - **mathematical Functioons:** Proper filtering for   incomplete record ('salary_year_avg is not null')
-### Conclusion  
+   ### Conclusion  
       
 
     Through this project, I strengthened my SQL skills and gained practical experience in analyzing real-world job market data. By using complex joins, aggregations, filtering, sorting, and CTEs, I identified the most in-demand and highest-paying skills for Data Engineer roles in India.
