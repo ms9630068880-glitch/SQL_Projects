@@ -6,7 +6,7 @@ This is a Sql project analyzing the Data Engineer job market using real data wor
 
 ## Executive summary
 #### Project Scope: 
-- Build 2 analytical querise that answer key question about Data Enginneer job market
+- Build 3 analytical querise that answer key question about Data Enginneer job market
 #### DATA Modeling 
 - used multi table  joins to extract insights
 #### Analytics 
