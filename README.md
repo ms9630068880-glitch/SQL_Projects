@@ -43,6 +43,7 @@ By querying across these interconnected tables,extracted insights about skills d
 ## Analysis Overview 
 - [Top Demanded Skills](../projects/top_demanded_skills.sql) : It identiifies the top most in demand skills for Data Engineer in India
 - [Top Paying skills](../projects/top_paying_skills.sql) : it identifies top paying skills for Data Engineer in India
+- [Most optimal skills](Most_optimal_skills.sql): It shows most optimal skills to learn
 ## SQL skill demonstrated 
 
 - ### Query design and & optimization
